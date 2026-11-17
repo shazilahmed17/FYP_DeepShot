@@ -409,9 +409,9 @@ This project was developed as a Final Year Project at the National University of
 
 **Project Team:**
 
+- Shazil Ahmed
 - Zohaib Bashir
 - Zaafir Rizwan
-- Shazil Ahmed
 
 **Supervisors:**
 
