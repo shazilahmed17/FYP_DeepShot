@@ -12,7 +12,7 @@ Unlike conventional sports highlight-generation approaches that rely primarily o
 - [Project Overview](#-project-overview)
 - [Project Objectives](#-project-objectives)
 - [Key Features](#-key-features)
-- [Technologies Used](#-technologies-used)
+- [Technologies Used](#️-technologies-used)
 - [System Architecture](#-system-architecture)
 - [How It Works](#️-how-it-works)
 - [Dataset Preparation](#-dataset-preparation)
@@ -23,7 +23,7 @@ Unlike conventional sports highlight-generation approaches that rely primarily o
 - [Evaluation and Results](#-evaluation-and-results)
 - [Deployment and MLOps](#-deployment-and-mlops)
 - [Repository Structure](#-repository-structure)
-- [Contributors](#-contributors)
+- [Project Information](#-project-information)
 - [Acknowledgements](#-acknowledgements)
 - [References](#-references)
 
@@ -374,26 +374,23 @@ FYP_DeepShot/
     └── Project documentation
 ```
 
-## 👨‍💻 Contributors
+## 👨‍💻 Project Information
 
 DeepShot was developed as a Final Year Project at the **National University of Computer and Emerging Sciences (FAST-NUCES), Islamabad, Pakistan**, in 2023.
 
-**Project Team:**
+**Project Developer:**
 
 - Shazil Ahmed
-- Zohaib Bashir
-- Zaafir Rizwan
 
-**Project Supervisors:**
+**Project Supervisor:**
 
-- Dr. Akhtar Jamil
 - Dr. Uzair Iqbal
 
 ## 🙏 Acknowledgements
 
-We would like to thank our project supervisors for their guidance and support throughout the development of DeepShot.
+The project acknowledges the guidance and support of its supervisor, **Dr. Uzair Iqbal**, throughout the development of DeepShot.
 
-We also acknowledge the research and open-source contributions of the Computer Vision and Deep Learning community, particularly the work surrounding YOLO and video-based sports event detection, which provided valuable references during the research and implementation phases.
+Appreciation is also extended to the research and open-source contributions of the Computer Vision and Deep Learning community, particularly the work surrounding YOLO and video-based sports event detection, which provided valuable references during the research and implementation phases.
 
 ## 📚 References
 
